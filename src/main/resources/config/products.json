@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "productName": "Blue Top",
+      "quantity": 2,
+      "price": "Rs. 500"
+    },
+    {
+      "productId": "2",
+      "productName": "Men Tshirt",
+      "quantity": 1,
+      "price": "Rs. 400"
+    },
+    {
+      "productId": "4",
+      "productName": "Stylish Dress",
+      "quantity": 3,
+      "price": "Rs. 1500"
+    },
+    {
+      "productId": "6",
+      "productName": "Summer White Top",
+      "quantity": 2,
+      "price": "Rs. 400",
+      "isDetailPage": true
+    }
+  ]
+}

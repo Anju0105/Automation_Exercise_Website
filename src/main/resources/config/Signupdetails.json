@@ -1,0 +1,23 @@
+{
+  "Title": "Mr",
+  "Password": "testing@123",
+
+  "DOB_Day": "10",
+  "DOB_Month": "5",
+  "DOB_Year": "1998",
+
+  "Newsletter": "true",
+  "Offers": "false",
+
+  "First_name": "testing",
+  "Last_name": "testing",
+  "Company": "testing",
+  "Address": "state country pincode",
+  "Address2": "state country pincode",
+  "Country": "India",
+  "State": "state",
+  "City": "abc",
+  "Zipcode": "000000",
+  "Mobile_Number": "00000000000"
+}
+
